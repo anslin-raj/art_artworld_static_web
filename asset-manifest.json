@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/artartworld.ml/static/css/main.e87083f1.css",
-    "main.js": "/artartworld.ml/static/js/main.dd46f9c8.js",
-    "static/js/787.2115f92f.chunk.js": "/artartworld.ml/static/js/787.2115f92f.chunk.js",
-    "static/media/logo-dark.svg": "/artartworld.ml/static/media/logo-dark.cb8060955bf96a5ba2bc16665939381a.svg",
-    "index.html": "/artartworld.ml/index.html",
-    "main.e87083f1.css.map": "/artartworld.ml/static/css/main.e87083f1.css.map",
-    "main.dd46f9c8.js.map": "/artartworld.ml/static/js/main.dd46f9c8.js.map",
-    "787.2115f92f.chunk.js.map": "/artartworld.ml/static/js/787.2115f92f.chunk.js.map"
+    "main.css": "/static/css/main.e87083f1.css",
+    "main.js": "/static/js/main.8dc43e3e.js",
+    "static/js/787.2115f92f.chunk.js": "/static/js/787.2115f92f.chunk.js",
+    "static/media/logo-dark.svg": "/static/media/logo-dark.cb8060955bf96a5ba2bc16665939381a.svg",
+    "index.html": "/index.html",
+    "main.e87083f1.css.map": "/static/css/main.e87083f1.css.map",
+    "main.8dc43e3e.js.map": "/static/js/main.8dc43e3e.js.map",
+    "787.2115f92f.chunk.js.map": "/static/js/787.2115f92f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e87083f1.css",
-    "static/js/main.dd46f9c8.js"
+    "static/js/main.8dc43e3e.js"
   ]
 }
